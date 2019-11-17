@@ -1,7 +1,7 @@
 use prime_factors as ps;
 
 fn main()  {
-     let d =2 ;
+     let d =93_819_012_551 ;
 
      let facs = ps::factors(d);
 
